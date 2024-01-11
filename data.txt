@@ -1,0 +1,29 @@
+Customer Query: I want to return an item, what is your return policy?
+Support Response: Our return policy allows returns within 30 days of purchase. Please visit our website for more details.
+
+Customer Query: How do I cancel my subscription?
+Support Response: To cancel your subscription, please go to the 'Subscriptions' section in your account settings.
+
+Customer Query: Are there any current discounts for new customers?
+Support Response: Yes, we offer a 10% discount for new customers. Please use the code NEW10 at checkout.
+
+Customer Query: Can I change my order after placing it?
+Support Response: Unfortunately, orders cannot be changed once they have been placed.
+
+Customer Query: How do I reset my password?
+Support Response: You can reset your password by clicking on 'Forgot Password' on the login page.
+
+Customer Query: I received the wrong item in my order, what do I do now?
+Support Response: I apologize for the inconvenience. Please provide your order number so we can sort this out.
+
+Customer Query: How can I update my shipping address?
+Support Response: You can update your shipping address in the 'My Account' section on our website.
+
+Customer Query: Is there a way to track my order?
+Support Response: Yes, you can track your order using the tracking number sent to your email.
+
+Customer Query: My order hasn't arrived yet, can you help?
+Support Response: Could you provide your order number? I'll check the status for you.
+
+Customer Query: I can't log into my account, what should I do?
+Support Response: Please try resetting your password using the 'Forgot Password' link.
